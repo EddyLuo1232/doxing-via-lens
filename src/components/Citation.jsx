@@ -155,7 +155,7 @@ const Citation = () => {
             </h3>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="./Doxing_via_the_lens__arxiv (1).pdf"
+                href="/Doxing_via_the_lens__arxiv (1).pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-primary inline-flex items-center space-x-2"

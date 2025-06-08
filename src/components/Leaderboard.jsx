@@ -11,7 +11,7 @@ const Leaderboard = () => {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const response = await fetch('./data/doxbench_leaderboard.csv');
+        const response = await fetch('/data/doxbench_leaderboard.csv');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }

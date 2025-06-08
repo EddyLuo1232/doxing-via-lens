@@ -200,7 +200,7 @@ const Findings = () => {
                 View Leaderboard
               </button>
               <a
-                href="./Doxing_via_the_lens__arxiv (1).pdf"
+                href="/Doxing_via_the_lens__arxiv (1).pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-secondary-900 px-6 py-3 rounded-lg font-semibold btn-enhanced-hover inline-flex items-center justify-center"

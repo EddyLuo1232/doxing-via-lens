@@ -51,7 +51,7 @@ const Header = ({ activeSection }) => {
           <div className="hidden md:flex items-center space-x-4">
             {/* PDF Link */}
             <a
-              href="./Doxing_via_the_lens__arxiv (1).pdf"
+              href="/Doxing_via_the_lens__arxiv (1).pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="group p-2 text-secondary-600 hover:text-secondary-900 btn-enhanced-hover rounded"
@@ -68,8 +68,8 @@ const Header = ({ activeSection }) => {
               className="group p-2 text-secondary-600 hover:text-secondary-900 btn-enhanced-hover rounded"
               title="arXiv Paper"
             >
-                                  <img 
-                      src="./logos/arxiv-logo.svg" 
+              <img 
+                src="/logos/arxiv-logo.svg" 
                 alt="arXiv" 
                 width="36" 
                 height="36" 
@@ -89,15 +89,15 @@ const Header = ({ activeSection }) => {
             </a>
             
             {/* Hugging Face Link */}
-                              <a
-                    href="https://huggingface.co/datasets/DoxxingTeam/DoxBench"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="group p-2 text-secondary-600 hover:text-secondary-900 btn-enhanced-hover rounded"
-                    title="Hugging Face Dataset"
-                  >
-                    <img 
-                      src="./logos/huggingface-color.svg" 
+            <a
+              href="https://huggingface.co/datasets/DoxxingTeam/DoxBench"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group p-2 text-secondary-600 hover:text-secondary-900 btn-enhanced-hover rounded"
+              title="Hugging Face Dataset"
+            >
+              <img 
+                src="/logos/huggingface-color.svg" 
                 alt="Hugging Face" 
                 width="20" 
                 height="20" 
@@ -135,7 +135,7 @@ const Header = ({ activeSection }) => {
               <div className="flex justify-center space-x-6 pt-4 border-t border-secondary-200">
                 {/* Mobile PDF Link */}
                 <a
-                  href="./Doxing_via_the_lens__arxiv (1).pdf"
+                  href="/Doxing_via_the_lens__arxiv (1).pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group p-2 text-secondary-600"
@@ -153,7 +153,7 @@ const Header = ({ activeSection }) => {
                   title="arXiv Paper"
                 >
                   <img 
-                    src="./logos/arxiv-logomark-small.svg" 
+                    src="/logos/arxiv-logomark-small.svg" 
                     alt="arXiv" 
                     width="20" 
                     height="20" 
@@ -180,7 +180,7 @@ const Header = ({ activeSection }) => {
                   title="Hugging Face Dataset"
                 >
                   <img 
-                    src="./logos/huggingface-color.svg" 
+                    src="/logos/huggingface-color.svg" 
                     alt="Hugging Face" 
                     width="20" 
                     height="20" 
