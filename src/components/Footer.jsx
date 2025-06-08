@@ -41,7 +41,7 @@ const Footer = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="/Doxing_via_the_lens__arxiv (1).pdf"
+                href="./Doxing_via_the_lens__arxiv (1).pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-secondary-400 hover:text-white transition-all duration-300 hover:scale-110 btn-enhanced-hover p-2 rounded"
@@ -89,7 +89,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/Doxing_via_the_lens__arxiv (1).pdf"
+                  href="./Doxing_via_the_lens__arxiv (1).pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-secondary-300 hover:text-white transition-all duration-300 hover:translate-x-1 inline-flex items-center space-x-1"

@@ -66,8 +66,8 @@ const Algorithm = () => {
               : 'opacity-0'
           }`}
         >
-          <img 
-            src="/framework.png" 
+                      <img 
+              src="./framework.png" 
             alt="DoxBench Framework Overview" 
             className="w-full h-auto rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
           />

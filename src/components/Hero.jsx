@@ -95,7 +95,7 @@ const Hero = () => {
           {/* Action Buttons with enhanced hover effects */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12 animate-[fadeInUp_1s_ease-out_0.9s_forwards] opacity-0">
             <a
-              href="/Doxing_via_the_lens__arxiv (1).pdf"
+              href="./Doxing_via_the_lens__arxiv (1).pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-primary inline-flex items-center space-x-2 group transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
@@ -112,7 +112,7 @@ const Hero = () => {
               className="btn inline-flex items-center space-x-3 bg-gray-50 hover:bg-gray-100 text-gray-800 border-gray-200 hover:border-gray-300 transition-all duration-300 shadow-lg hover:shadow-xl group hover:-translate-y-1"
             >
               <img 
-                src="/logos/arxiv-logomark-small.svg" 
+                src="./logos/arxiv-logomark-small.svg" 
                 alt="arXiv" 
                 className="w-5 h-5 group-hover:scale-105 transition-transform duration-200"
               />
@@ -138,7 +138,7 @@ const Hero = () => {
               className="btn inline-flex items-center space-x-2 bg-yellow-100 hover:bg-yellow-200 text-gray-800 border-yellow-200 group transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
             >
               <img 
-                src="/logos/huggingface-color.svg" 
+                src="./logos/huggingface-color.svg" 
                 alt="Hugging Face" 
                 className="w-6 h-6 group-hover:scale-105 transition-transform duration-200"
               />
